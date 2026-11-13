@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://fusionproxy.net/?utm_source=github&utm_medium=nodejs-web-scraping">
+  <a href="https://fusionproxy.net/?utm_source=github&utm_medium=referral&utm_campaign=nodejs-web-scraping">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FusionProxies/.github/main/assets/logo-on-dark.png">
       <img src="https://raw.githubusercontent.com/FusionProxies/.github/main/assets/logo-on-light.png" alt="Fusion Proxy" height="52">
@@ -119,7 +119,7 @@ cheerio sees the HTML the server sends. If the data appears only after JavaScrip
 - [golang-web-scraping](https://github.com/FusionProxies/golang-web-scraping): the same scraper in Go with Colly
 - [nodejs-proxy](https://github.com/FusionProxies/nodejs-proxy): every way to use a proxy in Node.js
 
-[Fusion Proxy residential proxies](https://fusionproxy.net/proxies/residential?utm_source=github&utm_medium=nodejs-web-scraping) from $2.95/GB, with a [free trial](https://fusionproxy.net/free-trial?utm_source=github&utm_medium=nodejs-web-scraping).
+[Fusion Proxy residential proxies](https://fusionproxy.net/proxies/residential?utm_source=github&utm_medium=referral&utm_campaign=nodejs-web-scraping) from $2.95/GB, with a [free trial](https://fusionproxy.net/free-trial?utm_source=github&utm_medium=referral&utm_campaign=nodejs-web-scraping).
 
 ## License
 
